@@ -45,6 +45,7 @@ function AboutComponent() {
                 <p>{item.text}</p>
               ))
             }     
+            
             </div>     
             
           </div>
